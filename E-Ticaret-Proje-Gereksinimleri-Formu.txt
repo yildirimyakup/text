@@ -1,0 +1,149 @@
+E-Ticaret Projesi Gereksinimleri ve Kapsamı Formu
+
+1. Temel İş Gereksinimleri
+
+Hedef kitle
+E-ticaret siteniz hangi müşteri segmentine hitap edecek? (B2C, B2B, veya her ikisi)
+Cevap: her ikisi
+
+
+Satılacak ürünler
+Ne tür ürünler satmayı planlıyorsunuz? (fiziksel, dijital, abonelik temelli, vb.)
+Cevap: elektronik eşyalar
+
+
+Ölçek
+Başlangıçta kaç ürün ve günlük kaç ziyaretçi bekliyorsunuz?
+Cevap: 700-1000 ürün ziyaretçi bilinmiyor
+
+
+Coğrafi kapsam
+Yerel, ulusal veya uluslararası satış yapılacak mı?
+Cevap: yerel Türkiye
+
+
+Rekabet avantajı
+Sitenizi rakiplerden farklı kılacak temel özellikler neler olacak?
+Cevap: sade, kullanışlı ve güvenilir sistem
+
+
+2. Fonksiyonel Gereksinimler
+
+Aşağıdaki özelliklerden hangilerinin projede yer almasını istiyorsunuz? Her özelliğin yanına önceliğini belirtin: (Yüksek/Orta/Düşük)
+
+Kullanıcı Yönetimi:
+□ Kayıt ve giriş sistemi - Öncelik: yüksek
+□ Sosyal medya ile giriş (Facebook, Google, vb.) - Öncelik: düşük
+□ Şifre sıfırlama - Öncelik: yüksek
+□ Kullanıcı profili yönetimi - Öncelik: orta
+□ Adres defteri yönetimi - Öncelik: yüksek
+□ Diğer (lütfen belirtin): 
+
+Ürün Yönetimi:
+□ Ürün listeleme ve arama - Öncelik: yüksek
+□ Filtreleme ve sıralama özellikleri - Öncelik: yüksek
+□ Ürün kategorileri ve alt kategoriler - Öncelik: yüksek
+□ Ürün varyasyonları (renk, boyut, vb.) - Öncelik: yüksek
+□ Ürün değerlendirme ve yorumları - Öncelik: orta
+□ Stok takibi - Öncelik: orta
+□ İstek listesi, karşılaştırma listeleri - Öncelik: düşük
+□ Diğer (lütfen belirtin): 
+
+Satın Alma Süreci:
+□ Alışveriş sepeti - Öncelik: yüksek
+□ Favori listeleri - Öncelik: orta
+□ Ödeme seçenekleri - Öncelik: yüksek
+   □ Kredi kartı -> evet
+   □ Havale/EFT -> evet
+   □ Kapıda ödeme -> evet
+   □ Diğer (lütfen belirtin): 
+□ Sipariş takibi - Öncelik: yüksek
+□ Sipariş geçmişi - Öncelik: yüksek
+□ İade/değişim işlemleri - Öncelik: orta
+□ Diğer (lütfen belirtin): 
+
+Admin/Satıcı Paneli:
+□ Ürün ekleme/düzenleme/silme - Öncelik: yüksek
+□ Sipariş yönetimi - Öncelik: yüksek
+□ Müşteri yönetimi - Öncelik: yüksek
+□ Envanter yönetimi - Öncelik: orta
+□ Raporlar ve analizler - Öncelik: yüksek
+□ Çoklu satıcı desteği (marketplace) - Öncelik: düşük
+□ Diğer (lütfen belirtin): 
+
+Pazarlama ve SEO:
+□ İndirim kuponları ve promosyonlar - Öncelik: orta
+□ E-posta pazarlama entegrasyonu - Öncelik: yüksek
+□ SEO optimizasyonları - Öncelik: yüksek
+□ Sosyal medya entegrasyonları - Öncelik: yüksek
+□ İlgili ürün önerileri - Öncelik: yüksek
+□ Diğer (lütfen belirtin): 
+
+3. Teknik Gereksinimler
+
+Performans:
+Aşağıdaki konularda hedeflerinizi belirtin:
+
+Sayfa yüklenme hızı hedefleri: yüksek
+
+Eş zamanlı kullanıcı kapasitesi: 1000 
+
+Mobil optimizasyon seviyesi: yüksek
+
+
+Güvenlik:
+Aşağıdaki güvenlik gereksinimlerinden hangilerine ihtiyacınız var?
+x Ödeme güvenliği (PCI DSS uyumluluğu)
+x Veri koruma ve KVKK uyumluluğu
+x Güvenli kimlik doğrulama 
+□ İki faktörlü kimlik doğrulama
+□ Diğer (lütfen belirtin): 
+
+Entegrasyonlar:
+Hangi sistemlerle entegrasyon düşünüyorsunuz?
+x Ödeme sistemleri (lütfen belirtin): iyzico
+x Kargo ve lojistik (lütfen belirtin): tüm kargo şirketleri 
+□ Muhasebe yazılımı (lütfen belirtin): belli değil 
+□ CRM sistemi (lütfen belirtin): 
+□ Diğer (lütfen belirtin): 
+
+4. Proje Sınırlamaları
+
+Bütçe
+Proje için ayrılan bütçe nedir?
+Cevap: belli değil
+
+
+Zaman
+Projenin tamamlanması için hedef tarih nedir?
+Cevap: 1 ay
+
+
+Teknik kısıtlamalar
+Belirli teknolojiler veya altyapı gereksinimleri var mı?
+Cevap: node js, react(vite), typescript
+
+
+5. Hedef KPI'lar
+
+Aşağıdaki performans göstergeleri için hedeflerinizi belirtin:
+
+Dönüşüm oranı hedefi: 
+
+Ortalama sepet tutarı hedefi: 
+
+Müşteri geri dönüş oranı: 
+
+Ziyaretçi trafiği hedefi: 
+
+Diğer önemli KPI'lar: 
+
+
+6. Ek Notlar
+
+Projenizle ilgili eklemek istediğiniz diğer bilgiler:
+
+Ek notlar:
+
+
+Tarih: 01.04.2025
